@@ -6,8 +6,8 @@
     "js" : "dist/bundle.js"
   },
   "toolName" : {
-    "human" :"Gene Disease Summary",
-    "cljs" :"bluegeneToolGeneDiseasePair"    
+    "human" :"Disease summary",
+    "cljs" :"bluegenesToolGeneDiseasePair"    
   },
   "version": 2
 }

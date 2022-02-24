@@ -1,10 +1,11 @@
-#  Gene Disease Summary
+#  Disease Summary
 
-Gene Disease Summary is a tool made for [BlueGenes](http://bluegenes.apps.intermine.org) following BlueGenes Tool API.
-Add more description of your tool here! :)
+Disease Summary is a tool made for [BlueGenes](http://bluegenes.apps.intermine.org) following BlueGenes Tool API.
+Disease Summary is designed for [TargetMine](https://targetmine.mizuguchilab.org/) to summarize diseases related annotations including (1) the inffered genetic diseases form [GWAS Catalog](https://www.ebi.ac.uk/gwas/), [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/), and SNP related publications in [dbSNP](https://www.ncbi.nlm.nih.gov/snp/), and (2) disease annotations from other databases (e.g. [DisGeNET](https://www.disgenet.org/)).
 
-## Licence
+## License
 
+The MIT License - see [LICENSE](LICENSE)
 
 ### To set up locally for development
 
