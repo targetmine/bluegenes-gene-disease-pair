@@ -6,7 +6,7 @@
   "homepage": "http://www.intermine.org",
   "repository": {
     "type": "git",
-    "url": "git@github.com:chenyian-nibio/bluegenes-gene-disease-pair.git"
+    "url": "git@github.com:targetmine/bluegenes-gene-disease-pair.git"
   },
   "files": [
     "/dist",
